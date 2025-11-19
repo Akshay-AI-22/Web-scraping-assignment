@@ -23,7 +23,7 @@ FieldDescriptionTitleFull title of the bookPricePrice in pounds (£), converted 
 - SQLite3: Database storage
 - CSV: File-based data export
 
-📦 Installation
+📦 Installation: 
 Clone or download the repository
 Install required dependencies:
 
