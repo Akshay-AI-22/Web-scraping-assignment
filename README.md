@@ -15,7 +15,10 @@ The scraped data is saved to both a CSV file and a SQLite database for flexible 
 
 🎯 Data Scraped
 The scraper extracts the following information for each book:
-FieldDescriptionTitleFull title of the bookPricePrice in pounds (£), converted to floatAvailabilityStock status (e.g., "In stock")RatingStar rating converted to number (1-5)
+- Title: Full title of the book
+- Price: Pricein pounds (£), converted to float
+- Availability: Stock status (e.g., "In stock")
+- Rating: Star rating converted to number (1-5)
 
 🛠️ Technologies Used
 - Python 3.x
